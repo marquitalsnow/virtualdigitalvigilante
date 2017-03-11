@@ -2,7 +2,8 @@
 **Author: Marquita Snow**
 
 #Task:
-**This website is a open source access portfolio for the ability to connect with me**
+**To create a website to promote myself **
+
 *Disclaimer:I am really lost on what I am supposed to be doing but giving this a try*
 
 
