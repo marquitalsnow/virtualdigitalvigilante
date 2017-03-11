@@ -1,6 +1,7 @@
-**#Marquita Snow Website**
-**#Author: Marquita Snow**
-_I am really lost on what I am supposed to be doing but giving this a try_
+#Marquita Snow Website
+**Author: Marquita Snow**
+
+*I am really lost on what I am supposed to be doing but giving this a try*
 
 [link to page](file:///Users/marquitasnow/mls/marquitasnow.html)
 ![]()
