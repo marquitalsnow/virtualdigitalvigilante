@@ -1,5 +1,5 @@
 # Marquita Snow Website
-# Author: Marquita Snow
+## Author: Marquita Snow
 
 # Task:
 * To create a website to promote myself *
@@ -62,5 +62,5 @@
 
 * At the footer of the webpage, there is a feedback button which will launch a window for the user to issue feedback of my site and allow them to email me
 
-#Below is the link to my Figma wire-frame of my website
+## Below is the link to my Figma wire-frame of my website
 [Marquita Snow's Figma Wire Frame ](https://www.figma.com/file/doJphW3Na4xI5KKGTwMghwWF/Untitled)
