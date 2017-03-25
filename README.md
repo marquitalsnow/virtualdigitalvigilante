@@ -1,5 +1,5 @@
-#Marquita Snow Website
-**Author: Marquita Snow**
+# Marquita Snow Website
+* Author: Marquita Snow
 
 # Task:
 * To create a website to promote myself *
